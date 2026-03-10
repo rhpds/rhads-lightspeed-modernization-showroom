@@ -10,10 +10,10 @@ tabs:
 - name: OpenShift Console
   url: 'https://console-openshift-console.${DOMAIN}'
 - name: Migration Toolkit for Applications
-  url: 'https://mta-mta-${USER}.${DOMAIN}'
+  url: 'https://mta-${USER}-mta.${DOMAIN}'
 - name: OpenShift DevSpaces
   url: 'https://devspaces.${DOMAIN}'
 - name: Gitea
-  url: 'https://gitea.${DOMAIN}/${USER}/modern-app-dev'
+  url: 'https://gitea-${USER}-gitea.${DOMAIN}/${USER}/modern-app-dev'
 - name: OpenShift Gitops
   url: 'https://openshift-gitops-server-openshift-gitops.${DOMAIN}'
